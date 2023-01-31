@@ -1,8 +1,8 @@
 
 # YetGen Jump Python 2
 
-bu repoyu yeni jump içerikleri için oluşturduk
-bu eğitimin birinci haftası
+bu repoyu yeni jump içerikleri için oluşturdum
+
 
 <img src="https://yetkingencler.com/wp-content/uploads/2021/07/YetGenLogo.png">
 
