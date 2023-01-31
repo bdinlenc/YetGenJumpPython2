@@ -1,5 +1,5 @@
 
-# YetGen Jump Python 2
+# YetGen Jump Python 2 
 
 bu repoyu yeni jump içerikleri için oluşturdum
 
