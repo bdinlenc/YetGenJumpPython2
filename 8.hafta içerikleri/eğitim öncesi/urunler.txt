@@ -1,3 +1,4 @@
 kalem
 5 tl
 kalem,5
+domates,6
