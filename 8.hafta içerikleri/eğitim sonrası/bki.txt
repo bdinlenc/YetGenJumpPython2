@@ -1,18 +1,4 @@
 Merhaba guzide,
 Boyunuz:175,Kilonuz:51,VKI'nız:16
 
-Merhaba güzide,
-Boyunuz:160,Kilonuz:63,VKI'nız:24
-
-Merhaba güzi,
-Boyunuz:15,Kilonuz:55,VKI'nız:2444
-
-Merhaba g,
-Boyunuz:160,Kilonuz:56,VKI'nız:21
-
-Merhaba güzi,
-Boyunuz:160,Kilonuz:57,VKI'nız:22
-
-Merhaba guzide,
-Boyunuz:160,Kilonuz:55,VKI'nız:21
 
