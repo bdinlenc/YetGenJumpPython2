@@ -13,3 +13,6 @@ Boyunuz:160,Kilonuz:56,VKI'nız:21
 Merhaba güzi,
 Boyunuz:160,Kilonuz:57,VKI'nız:22
 
+Merhaba guzide,
+Boyunuz:160,Kilonuz:55,VKI'nız:21
+
